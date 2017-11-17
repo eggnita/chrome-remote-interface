@@ -1,6 +1,11 @@
 chrome-remote-interface    
 =======================
-!Important, this is a fork from the original project
+*Important, this is a fork from the original project!*
+
+From the original fork we will console log some more cdp messages going through
+the websocket for debug purpose
+
+
 "cyrus-and/chrome-remote-interface"
 
 [Chrome Debugging Protocol] interface that helps to instrument Chrome (or any
